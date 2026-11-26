@@ -117,7 +117,7 @@ Operation_Hydra_Python_Project/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Kartik311209/Operation_hydra_project-.git
+git clone https://github.com/Anjaneyyyy/Operation_hydra_project-.git
 ```
 
 ### Step 2: Navigate to the project directory
@@ -199,9 +199,9 @@ It provides a structured practical understanding of how digital evidence can be 
 
 **Kartik Kumar**
 
-GitHub: [@Kartik311209](https://github.com/Kartik311209)
+GitHub: [[Anjaneyyyy](https://github.com/Kartik311209](https://github.com/Anjaneyyyy)https://github.com/Anjaneyyyy)]
 
-Project: [Operation Hydra](https://github.com/Kartik311209/Operation_hydra_project-)
+Project: [Operation Hydra](https://github.com/Anjaneyyyy/Operation-Hydra-Project)
 
 ---
 
